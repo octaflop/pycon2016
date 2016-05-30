@@ -9,8 +9,11 @@ Welcome to PyCon 2016's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
+    posix
+    refactor
+    large_scale
 
 
 Indices and tables
