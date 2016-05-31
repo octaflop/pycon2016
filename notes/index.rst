@@ -14,6 +14,11 @@ Contents:
     posix
     refactor
     large_scale
+    bbc_education
+    cobbler
+    3dprint
+    channels
+    nav_ross
 
 
 Indices and tables
