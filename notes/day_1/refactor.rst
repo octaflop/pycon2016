@@ -63,7 +63,8 @@ This is how you can call an instantiated class in an if statement. This helps en
 More Class Strategies
 +++++++++++++++++++++
 
-.. code::
+.. code-block:: python
+  :linenos:
 
   class Pet:
     def __init__(self, name, age):

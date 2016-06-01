@@ -62,7 +62,7 @@ author = 'Faris Chebib'
 # built documents.
 #
 # The short X.Y version.
-version = '2'
+version = 'day.2'
 # The full version, including alpha/beta/rc tags.
 release = 'day_2'
 
