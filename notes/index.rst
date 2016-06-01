@@ -22,6 +22,7 @@ Contents:
     day_2/dev_to_manage
     day_2/structured_data
     day_2/basic_design
+    day_3/healthcare_pypy
 
 
 Indices and tables
