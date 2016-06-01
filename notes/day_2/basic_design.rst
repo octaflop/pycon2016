@@ -7,3 +7,5 @@ Tracy Osbourne
 
 ColourLovers (nostalgia) http://www.colourlovers.com/patterns/most-favorites/all-time/meta
 Beautiful Web Type http://hellohappy.org/beautiful-web-type/
+
+Make things skimmable
