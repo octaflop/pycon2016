@@ -23,6 +23,7 @@ Contents:
     day_2/structured_data
     day_2/basic_design
     day_3/healthcare_pypy
+    day_3/death_to_GIL
 
 
 Indices and tables
